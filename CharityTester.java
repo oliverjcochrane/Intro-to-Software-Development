@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class CharityTester here.
+ * Definitions of instance variables, constructors, and methods for this program can be found in Charity.java in this repository.
  *
  * @author (Oliver Cochrane)
  * @version (2/1/23)
